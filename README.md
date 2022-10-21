@@ -25,4 +25,5 @@ I'm Abdullah Mohamed & I work as Application security engineer, garduated from B
 
 2 - Got Award for winning Finylolgy Competition organized by **Central Bank of Egypt & Egyptian Banking Institution**.
 
-- 📫 How to reach me: ... [linkiedin](https://www.linkedin.com/in/abdullah-mohamed-b86384150/)
+
+- 📫 How to reach me: ... [linkedin](https://www.linkedin.com/in/abdullah-mohamed-b86384150/)
