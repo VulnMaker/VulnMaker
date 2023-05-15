@@ -7,6 +7,7 @@ I'm Abdullah Mohamed & I work as Application security engineer, garduated from B
 
 | Position                          | Company               | Time line                 |
 | --------------------------------- | --------------------  | ------------------------- |
+| Information Security Specialist   | Xceed                 | 03/2023 - Present         |
 | Penetration Tester                | Paymob                | 02/2022 - 09/2022         |
 | Cyber Security Instractor         | Security Meter        | 04/2021 - 08/2022         |
 | Cyber Security Trainee            | C-Selection           | 01/2018 - 10/2018         |
