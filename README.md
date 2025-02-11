@@ -1,7 +1,7 @@
 ### Hello Fellows 👋
 
 ### Before the begining ✍️
-I'm Abdullah Mohamed & I work as Application security engineer, garduated from Business Information System Helwan university on 2021, I'm considering my self as Junior in the filed because there is many topics I want to know about, this profile mainly to contripute in the security commenunity becasue I notices that there are many stuff that could be automated and make our work easier to only focus on the important stuff.  
+I'm Abdullah Mahmoud & currently working as risk manager, garduated from Business Information System Helwan university on 2021, I'm considering myself as curious driven in the filed because there is many topics I will deep dive in the future, this profile mainly to contripute in the security commenunity becasue I notices that there are many stuff that could be automated and make our work easier or summarize some topics so, I can remember them again when I forgot them.  
 
 ### Work experience
 
