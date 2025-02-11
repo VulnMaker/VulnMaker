@@ -7,6 +7,8 @@ I'm Abdullah Mohamed & I work as Application security engineer, garduated from B
 
 | Position                          | Company               | Time line                 |
 | --------------------------------- | --------------------  | ------------------------- |
+| Risk Manager                      | Aldi Süd Holding      | 09/2024 - Current         |
+| IT Project Manager                | GEA Group             | 01/2024 - 08/2024         |
 | Information Security Specialist   | Xceed                 | 03/2023 - 09/2023         |
 | Penetration Tester                | Paymob                | 02/2022 - 09/2022         |
 | Cyber Security Instractor         | Security Meter        | 04/2021 - 08/2022         |
